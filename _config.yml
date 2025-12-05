@@ -1,5 +1,3 @@
-```yaml
-title: "Application 6 Project Demo"
-description: "A simple GitHub Pages site with an embedded demo video."
-theme: minima
-markdown: kramdown
+theme: jekyll-theme-minimal
+title: RTS Final Project Website and Demo
+description: Github Website
