@@ -17,15 +17,12 @@ The goal of this assignment is to:
 
 ## 🎥 Demo Video
 
-> Replace `VIDEO_ID_HERE` with your actual YouTube video ID  
-> (the ID is the part after `v=` in the YouTube URL)
-
 ```html
 <div align="center">
   <iframe 
     width="560" 
     height="315" 
-    src="https://www.youtube.com/embed/VIDEO_ID_HERE" 
+    src="https://www.youtube.com/embed/RnzGYFkM61E" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
