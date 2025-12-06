@@ -5,13 +5,12 @@ This page contains a short description of the project and an embedded demo video
 
 ---
 
-## 🚀 Project Overview
-This project demonstrates real-time hazard detection using an ESP32, gas sensor, ADC conversion, and threshold-based alerting. The system reads live sensor values, converts them to ppm, and displays the hazard level.
+## Project Overview
+This project implements a real-time combustible gas detection system intended for use aboard a Lockheed Martin aircraft. 
+In a normal operating environment, the aircraft should never register combustible gases within the cabin, as the presence of such gases 
+would indicate a potentially dangerous system leak or failure. The onboard MQ-2 sensor continuously monitors gas concentration levels, 
+and the system evaluates these readings against a strict threshold of 5000 ppm, chosen to represent the onset of hazardous conditions.
 
-The goal of this assignment is to:
-- Host a simple GitHub Pages website  
-- Embed a short YouTube demo video  
-- Provide a clean public link to show the project  
 
 ---
 
@@ -22,7 +21,7 @@ The goal of this assignment is to:
   <iframe 
     width="560" 
     height="315" 
-    src="https://www.youtube.com/embed/RnzGYFkM61E" 
+    src="https://www.youtube.com/embed/K-4viaLcXbs" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
