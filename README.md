@@ -14,7 +14,7 @@ and the system evaluates these readings against a strict threshold of 5000 ppm, 
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 
 ```html
 <div align="center">
